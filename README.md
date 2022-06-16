@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sokuenryan
-- 👀 I’m interested in movies, sports, gaming, eating out, funny dog and cat videos
+- 👀 I’m interested in movies, sports, gaming, eating out, funny dog and cat videos ^_^
 - 🌱 I’m currently learning ...fullstack web development
 - 📫 How to reach me ...DM @zephyr_koryami
 
